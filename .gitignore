@@ -9,7 +9,7 @@ __pycache__/
 
 # data files
 train/ 
-
+test/
 
 # Distribution / packaging
 .Python
